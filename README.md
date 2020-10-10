@@ -2,10 +2,9 @@
 Simple script to convert FLAC files to MP3 while maintaining their Rekordbox metadata
 
 **Dependencies**
+* Python 3.8
 
-*Python 3.8
-
-*ffmpeg
+* ffmpeg
 
 
 **Background**
